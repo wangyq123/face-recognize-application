@@ -1,0 +1,7 @@
+.idea
+target
+venv
+target/*
+src/main/python/dataset/**/*
+dataset
+/src/main/python/trainer/*.yml
